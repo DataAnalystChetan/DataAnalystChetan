@@ -13,7 +13,7 @@
 
 ✨ _He is an amazing guy trust me._ ✨
 
-- 🌱 He is currently learning ... Python.
-- 🤔 He is looking for help with ... the best ways to be a better Data Analyst.
-- 💬 Ask him about ... anything, even if I do not know, I'll still definitely have something to say.
+- 🌱 I'm currently learning ... Python.
+- 🤔 I'm looking for help with ... the best ways to be a better Data Analyst.
+- 💬 Ask me about ... anything, even if I do not know, I'll still definitely have something to say.
 - ⚡ Fun fact: ... I think I can be a Stand-up comedian. 😄😄😄😄
