@@ -1,4 +1,4 @@
-![Alt Text](Assets/Banner.png)
+![Alt Text](Assets/Banner Image.png)
 
 
 # Hi there 👋
